@@ -892,28 +892,31 @@ a:focus.service-btn{
 /*team-box-bg*/
 
 .team-box-bg-1{
-	background: url(../../assets/images/team/Farel.jpeg) no-repeat;
+	background: url(../../assets/images/team/Farel.jpg) no-repeat;
 }
 .team-box-bg-2{
 	background: url(../../assets/images/team/Iga.jpeg) no-repeat;
 }
 .team-box-bg-3{
-	background: url(../../assets/images/team/Alvin.png) no-repeat;
+	background: url(../../assets/images/team/Alvin.jpg) no-repeat;
 }
 .team-box-bg-4{
-	background: url(../../assets/images/team/Bagja2.jpeg) no-repeat;
+	background: url(../../assets/images/team/Bagja.jpg) no-repeat;
 }
 .team-box-bg-5{
-	background: url(../../assets/images/team/Wahyu.JPG) no-repeat;
+	background: url(../../assets/images/team/Wahyu.jpg) no-repeat;
 }
 .team-box-bg-6{
-	background: url(../../assets/images/team/Naufal.jpeg) no-repeat;
+	background: url(../../assets/images/team/Syawal.jpg) no-repeat;
 }
 .team-box-bg-7{
-	background: url(../../assets/images/team/Yowan.jpeg) no-repeat;
+	background: url(../../assets/images/team/Yowan.jpg) no-repeat;
 }
 .team-box-bg-8{
-	background: url(../../assets/images/team/Evan1.jpg) no-repeat;
+	background: url(../../assets/images/team/Evan.jpg) no-repeat;
+}
+.team-box-bg-9{
+	background: url(../../assets/images/team/Abi.jpg) no-repeat;
 }
 /*team-box-bg*/
 
