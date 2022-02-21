@@ -892,17 +892,30 @@ a:focus.service-btn{
 /*team-box-bg*/
 
 .team-box-bg-1{
-	background: url(../../assets/images/team/team.jpg) no-repeat;
+	background: url(../../assets/images/team/Farel.jpeg) no-repeat;
 }
 .team-box-bg-2{
-	background: url(../../assets/images/team/team3.jpg) no-repeat;
+	background: url(../../assets/images/team/Iga.jpeg) no-repeat;
 }
 .team-box-bg-3{
-	background: url(../../assets/images/team/team2.jpg) no-repeat;
+	background: url(../../assets/images/team/Alvin.png) no-repeat;
 }
 .team-box-bg-4{
-	background: url(../../assets/images/team/team3.jpg) no-repeat;
-}/*team-box-bg*/
+	background: url(../../assets/images/team/Bagja2.jpeg) no-repeat;
+}
+.team-box-bg-5{
+	background: url(../../assets/images/team/Wahyu.JPG) no-repeat;
+}
+.team-box-bg-6{
+	background: url(../../assets/images/team/Naufal.jpeg) no-repeat;
+}
+.team-box-bg-7{
+	background: url(../../assets/images/team/Yowan.jpeg) no-repeat;
+}
+.team-box-bg-8{
+	background: url(../../assets/images/team/Evan1.jpg) no-repeat;
+}
+/*team-box-bg*/
 
 
 /*team-box-inner*/
